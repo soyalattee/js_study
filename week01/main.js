@@ -18,6 +18,6 @@ a = 6;
 console.log(a);
 
 console.log(age);
-age = 4;
+age = 44;
 console.log(age);
 var age;
